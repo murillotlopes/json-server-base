@@ -21,7 +21,7 @@ Corpo da requisição
     }
 ```
 
-O url base da API é XXXXXXXXXXXXXXXXX
+O url base da API é https://bk-json-server.herokuapp.com/
 
 ### Cadastro
 
